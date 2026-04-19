@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/vectorstores/
+src/vector_db/
+*.csv
+.DS_Store

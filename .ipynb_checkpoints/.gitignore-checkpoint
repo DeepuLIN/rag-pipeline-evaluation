@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# FAISS / vector db (if later)
+faiss_index/
+
+# OS
+.DS_Store
