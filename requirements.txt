@@ -1,1 +1,20 @@
+# Core
 python-dotenv
+pydantic
+tqdm
+
+# Embeddings
+sentence-transformers
+
+# Vector DB
+chromadb
+
+# LLM routing (Ollama / Groq support)
+litellm
+
+# UI (optional but you used it)
+gradio
+
+# Utils (safe to include)
+numpy
+scikit-learn
