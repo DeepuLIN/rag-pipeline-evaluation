@@ -5,3 +5,5 @@ data/vectorstores/
 src/vector_db/
 *.csv
 .DS_Store
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
